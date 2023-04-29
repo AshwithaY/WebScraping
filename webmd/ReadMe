@@ -1,0 +1,12 @@
+This Project is to pull data from a website. Here is the requirement from a freelancer:
+ 
+want a list of emails for doctors within 10 miles of a particular US zipcode to be scraped from WebMD, and then have their email addresses found.   
+Here is the link: https://doctor.webmd.com/results?q=Family%20Medicine&sids=29259&pagenumber=1&d=16&rd=16&sortby=bestmatch&extractionname=Family%20Medicine&extractiontype=specialty&medicare=false&medicaid=false&newpatient=false&isvirtualvisit=false&minrating=0&entity=practice&hospPromo=false&pt=45.544,-122.639&city=Portland&state=OR
+There should be 683 clinics, and each clinic I will want the email addresses of doctors who specialize in: family medicine, internal medicine.  Types of doctors that are ok: MD, DO, Nurse Practitioner, and PA (Physicians Assistant) are OK.
+
+I have attached a sample sheet,  but I will also need emails for the family medicine/internal medicine doctors, and if none are available a general email address or way to contact the clinic.
+
+I would like the total numbers of doctors listed at the clinic, but you only need to put the contact info for family medicine/internal medicine.
+
+Please give me a 20-30 contact sheet before starting work.  I need this done in 1 week.  Please ask any questions.
+
